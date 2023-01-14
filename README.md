@@ -1,1 +1,1 @@
-movie app 만들기
+#Simple movie application
